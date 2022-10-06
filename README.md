@@ -64,12 +64,6 @@ Contributing for the first time? I got you 😀
 - Be respectful and make sure you dont add any offensive content.
 - Do write a brief `description` and proper `title` for your pull request.
 
-## Having trouble? Ask in discussions:
-
-<a href = "https://discord.gg/mKWHTmtd" >Discussions</a>
-
-
-
 
 
 ## Get yourself featured here as an Open Source Contributor 🎉🙌:
